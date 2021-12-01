@@ -31,5 +31,10 @@
   "devDependencies": {
     "rskjs-util": "^1.0.3",
     "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.27",
+    "ajv": "^8.10.0",
+    "ajv-formats": "^2.1.1"
   }
 }
