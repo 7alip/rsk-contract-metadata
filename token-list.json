@@ -1,0 +1,396 @@
+{
+  "name": "RSK Tokens",
+  "timestamp": "2021-12-08T19:58:51.152Z",
+  "keywords": ["rsk"],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 30,
+      "address": "0x2aCc95758f8b5F583470bA265Eb685a8f45fC9D5",
+      "name": "RIF",
+      "decimals": 18,
+      "symbol": "RIF",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rif.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F",
+      "name": "RIF Dollar on Chain",
+      "decimals": 18,
+      "symbol": "RDOC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdoc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xF4d27C56595eD59B66cC7f03CFF5193E4Bd74a61",
+      "name": "RIF Pro",
+      "decimals": 18,
+      "symbol": "RIFP",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rifpro.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xE700691Da7B9851F2F35f8b8182C69C53ccad9DB",
+      "name": "Dollar on Chain",
+      "decimals": 18,
+      "symbol": "DOC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/doc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x440cd83C160de5C96DDb20246815EA44C7Abbca8",
+      "name": "BitPro",
+      "decimals": 18,
+      "symbol": "BPro",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/bpro.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x45d3E4fB311982a06ba52359d44cB4f5980e0ef1",
+      "name": "RIF Name Service",
+      "decimals": 18,
+      "symbol": "RNS",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rif.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xe0CFF8a40f540657c62EB4CAC34b915e5ed8d8FF",
+      "name": "Invecoin",
+      "decimals": 18,
+      "symbol": "INV",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/inv.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x6B1a73d547F4009A26B8485b63D7015D248AD406",
+      "name": "Dai Stablecoin on RSK",
+      "decimals": 18,
+      "symbol": "rDAI",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/dai.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x967f8799aF07DF1534d48A95a5C9FEBE92c53ae0",
+      "name": "Wrapped RBTC on RSK",
+      "decimals": 18,
+      "symbol": "WRBTC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/wrbtc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x818C0A92aae155e93419B5a7323E8e8AE649F287",
+      "name": "RSK Swap LP RIF/RBTC",
+      "decimals": 18,
+      "symbol": "🦄RBTC:RIF",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rif-rbtc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xDA066D0fD764c8035Cd56798F0F0D2FE719CC62B",
+      "name": "RSK Swap LP RIF/DOC",
+      "decimals": 18,
+      "symbol": "🦄RIF:DOC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rif-doc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xe66388940C3db98a7b9Fcf628702FFBEc3a106a3",
+      "name": "RSK Swap LP BPRO/DOC",
+      "decimals": 18,
+      "symbol": "🦄BPRO:DOC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/bpro-doc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x90Fc6FBb9C7ecfeCF0AcB44385E6a4D076817feb",
+      "name": "RSK Swap LP RDOC/DOC",
+      "decimals": 18,
+      "symbol": "🦄RDOC:DOC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdoc-doc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x22DaA89FDF6FB6a6771652141E6F18b8EBD86960",
+      "name": "RSK Swap LP rDAI/DOC",
+      "decimals": 18,
+      "symbol": "🦄DAI:DOC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdai-doc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xc9fE8E7A47EFf9f62f2684a540619D52FBcD6649",
+      "name": "RSK Swap LP rDAI/RBTC",
+      "decimals": 18,
+      "symbol": "🦄rDAI:RBTC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rdai-rbtc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x2D5146C744Bef25B27d0DC8523Ed547BF7514D84",
+      "name": "RSK Swap LP RIF/rDAI",
+      "decimals": 18,
+      "symbol": "🦄RIF:rDAI",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rif-rdai.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x73C08467E23F7DcB7DdbBc8d05041b74467A498A",
+      "name": "Flixxo on RSK",
+      "decimals": 18,
+      "symbol": "rFLIXX",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/flixx.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x14ADAE34beF7Ca957ce2DDe5AdD97EA050123827",
+      "name": "ChainLink Token on RSK",
+      "decimals": 18,
+      "symbol": "rLINK",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/link.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x1BDa44fda023F2af8280a16FD1b01D1A493BA6c4",
+      "name": "USD Coin on RSK",
+      "decimals": 18,
+      "symbol": "rUSDC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96",
+      "name": "Tether USD on RSK",
+      "decimals": 18,
+      "symbol": "rUSDT",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdt.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x9C3a5F8d686fadE293c0Ce989A62a34408C4e307",
+      "name": "RedFOX Labs on RSK",
+      "decimals": 18,
+      "symbol": "rRFOX",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rfox.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xD256C121A507cadd2687599E27fA45E31B7c3199",
+      "name": "rLending USDT",
+      "decimals": 18,
+      "symbol": "crUSDT",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/crusdt.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xB7Ff2c56c897562c0AA6747D2679d35F5e937492",
+      "name": "rLending RIF",
+      "decimals": 18,
+      "symbol": "cRIF",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/crif.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x872664A885A1995D754E3666A23FaD5c801401C4",
+      "name": "rLending RBTC",
+      "decimals": 18,
+      "symbol": "cRBTC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/crbtc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x4991516DF6053121121274397A8C1DAD608bc95B",
+      "name": "Bundles Finance on RSK",
+      "decimals": 18,
+      "symbol": "rBUND",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/bund.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xFF9EA341d9ea91CB7c54342354377f5104Fd403f",
+      "name": "AMLT Coinfirm on RSK",
+      "decimals": 18,
+      "symbol": "rAMLT",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/amlt.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xEfC78FC7D48B64958315949279bA181C2114abbD",
+      "name": "Sovryn Token",
+      "decimals": 18,
+      "symbol": "SOV",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/sov.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10",
+      "name": "Money on Chain Governance Token",
+      "decimals": 18,
+      "symbol": "MOC",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/moc.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x70566D8541beaBe984c8BAbF8A816Ed908514Ba8",
+      "name": "Universal Basic Income on RSK",
+      "decimals": 18,
+      "symbol": "rUBI",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/ubi.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xd52da63689543924dcA66bCBe2e2Ea599c45d575",
+      "name": "Pesos Argentinos PagoLinea",
+      "decimals": 18,
+      "symbol": "ARSCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/arscb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xaA5dc2Ea0E056Fc962F48aB25547d66d3586eE8a",
+      "name": "Dólar Americano PagoLinea",
+      "decimals": 18,
+      "symbol": "USDCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xE9F78E507F24537f3f78c212Cf93F65eEC9054C2",
+      "name": "Bolívares PagoLinea",
+      "decimals": 18,
+      "symbol": "VESCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/vescb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x7C459C5B11E2815DB085DDA9EC314a9cDe00a082",
+      "name": "Pesos Colombianos PagoLinea",
+      "decimals": 18,
+      "symbol": "COPCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/copcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x3e040020648A2f2c872ce0c7165ba5aD7841c972",
+      "name": "Real Brasileño PagoLinea",
+      "decimals": 18,
+      "symbol": "BRLCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/brlcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xae2CEB4B57AdE22643BE2909425105d5114b1DbC",
+      "name": "Euro PagoLinea",
+      "decimals": 18,
+      "symbol": "EURCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/eurcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x99AF5DeB8dAebcD36FCCd16fa46dC95D922cDe5b",
+      "name": "Pesos Panameños PagoLinea",
+      "decimals": 18,
+      "symbol": "PABCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/pabcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xA05Fd8082e19923aa4868ff3C2aE48850B734736",
+      "name": "Guaranies Paraguayos PagoLinea",
+      "decimals": 18,
+      "symbol": "PYGCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/pygcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x0f6895FA2679453d2c32C5f6E2f00e4621c57Ca2",
+      "name": "Sol Peruano PagoLinea",
+      "decimals": 18,
+      "symbol": "PENCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/pencb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x61B50d8fB43Cc28b56EE7f9DA32aE46c3c1C68A3",
+      "name": "Yuan Chino PagoLinea",
+      "decimals": 18,
+      "symbol": "CNYCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/cnycb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x2058BA9577C4F90246bEa9D74Ae2e4Cd0167A123",
+      "name": "Pesos Mexicanos PagoLinea",
+      "decimals": 18,
+      "symbol": "MXNCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/mxncb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x977675B863b3b1Cf46A927fdDcbe0c831bF50135",
+      "name": "Pesos Bolivianos PagoLinea",
+      "decimals": 18,
+      "symbol": "BOBCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/bobcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x3d9f9e1f8151410BEdA306fDF8626a02e03ea8aa",
+      "name": "Rupia Indonesia PagoLinea",
+      "decimals": 18,
+      "symbol": "IDRCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/idrcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xd8132625b10B3962239F6842981dCE02f1a163D2",
+      "name": "Peso Uruguayo PagoLinea",
+      "decimals": 18,
+      "symbol": "UYUCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/uyucb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xAb2d290b7a600f5eA8d5B933f6F15c867Fd7e60e",
+      "name": "Bitcoin PagoLinea",
+      "decimals": 18,
+      "symbol": "BTCCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/btccb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x84C0Cb1D6623cfB3546a79c66eB96b874CE6659d",
+      "name": "Ether PagoLinea",
+      "decimals": 18,
+      "symbol": "ETHCB",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/ethcb.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xE355C280131dfaf18Bf1C3648aEE3c396Db6B5Fd",
+      "name": "Brazilian Digital Token",
+      "decimals": 18,
+      "symbol": "BRZ",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/brz.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f",
+      "name": "XUSD Babelfish stablecoin",
+      "decimals": 18,
+      "symbol": "XUSD",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/xusd.png"
+    },
+    {
+      "chainId": 30,
+      "address": "0x055a902303746382Fbb7D18f6aE0df56EFDC5213",
+      "name": "Babelfish",
+      "decimals": 18,
+      "symbol": "FISH",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/fish.png"
+    }
+  ]
+}
